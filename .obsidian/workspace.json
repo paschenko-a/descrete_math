@@ -8,245 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5e8e66ef28003a46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "12_3.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "12_3"
-            }
-          },
-          {
-            "id": "01c968decdee6359",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "13.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "13"
-            }
-          },
-          {
-            "id": "c74368fe3cf6ea92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-3.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1-3"
-            }
-          },
-          {
-            "id": "d51652cb88d1b095",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "15.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "15"
-            }
-          },
-          {
-            "id": "a86b5001c6bd345b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "16.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "16"
-            }
-          },
-          {
-            "id": "b4ac1c4050399938",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "17.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "17"
-            }
-          },
-          {
-            "id": "ea7453b2a79c1ee5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "18.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "18"
-            }
-          },
-          {
-            "id": "9e2cb0e34992afbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "19.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "19"
-            }
-          },
-          {
-            "id": "5f96e7d9dea9b8de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20"
-            }
-          },
-          {
-            "id": "6559bea29b484efb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "21.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "21"
-            }
-          },
-          {
-            "id": "776b3043424e1455",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "22.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "22"
-            }
-          },
-          {
-            "id": "9b2ca0b3fcc7c9c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "23.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "23"
-            }
-          },
-          {
-            "id": "f685d249fa845326",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "24.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "24"
-            }
-          },
-          {
-            "id": "ae2e1a8b8f59f071",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "25.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "25"
-            }
-          },
-          {
-            "id": "16d2e22f048dc0ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "26.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "26"
-            }
-          },
-          {
-            "id": "736d40c12e846039",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "27.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "27"
-            }
-          },
-          {
-            "id": "abde4fc7b6e3ec94",
+            "id": "5de0b9ddf11a450b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "28.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "28"
             }
+          },
+          {
+            "id": "23f7462567c62ef4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "29.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "29"
+            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -408,10 +198,27 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "abde4fc7b6e3ec94",
+  "active": "23f7462567c62ef4",
   "lastOpenFiles": [
-    "27.md",
     "28.md",
+    "29.md",
+    "11.md",
+    "12_1.md",
+    "12_2.md",
+    "9_1.md",
+    "8.md",
+    "7.md",
+    "6.md",
+    "5.md",
+    "4.md",
+    "10.md",
+    "9_2.md",
+    "13.md",
+    "12_3.md",
+    "1-3.md",
+    "15.md",
+    "14.md",
+    "27.md",
     "26.md",
     "25.md",
     "24.md",
@@ -419,24 +226,7 @@
     "22.md",
     "21.md",
     "20.md",
-    "19.md",
-    "18.md",
-    "17.md",
-    "16.md",
-    "15.md",
-    "1-3.md",
     "Без названия",
-    "12_1.md",
-    "11.md",
-    "10.md",
-    "14.md",
-    "13.md",
-    "12_3.md",
-    "12_2.md",
-    "9_2.md",
-    "9_1.md",
-    "8.md",
-    "7.md",
     "12_2.ьв",
     "12_2",
     "хз",
